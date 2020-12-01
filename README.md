@@ -1,3 +1,27 @@
+# MAXXBOTS -ALL IN ONE REPO
+
+## ABOUTAbout
+My projects that I have made to improve my skills . Please don't use it to copy the projects. Submit the PR if you want something to be added to this repository
+## Introduction
+
+Here I upload all my Telegram Bots projects.
+
+## Downloads
+
+For Reference check the Downloads folder contains the links to the videos according to the Bot Name.
+
+## How to contribute
+
+NOT YET 
+
+### Steps
+
+- Fork this repository.
+- Make the changes inside your repository.
+- Submit the PR.
+
+## Python Virtual Environment Run
+
 ![MY ALL REPO](https://telegra.ph/file/bd0ac21d16a564796ecf4.png)
 
 
@@ -9,7 +33,7 @@
 🔷 𝗧𝗢𝗥𝗥𝗘𝗡𝗧 𝗠𝗜𝗥𝗥𝗢𝗥
 🔷 𝗖𝗢𝗡𝗩𝗘𝗥𝗧𝗢𝗥 𝗕𝗢𝗧.
 🔷 𝗙𝗢𝗥𝗖𝗘 𝟮 𝗦𝗨𝗕𝗦 𝗕𝗢𝗧
-🔷 𝗧𝗢𝗥𝗥𝗘𝗡𝗧 𝗟𝗘𝗘𝗖𝗛 𝗕𝗢𝗧.
+🔷 𝗧𝗢𝗥𝗥𝗘𝗡𝗧 𝗟𝗘𝗘𝗖𝗛 𝗕𝗢𝗧
 🔷 𝗭𝗘𝗘𝟱 𝗗𝗟 𝗕𝗢𝗧
 
 
