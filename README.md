@@ -16,4 +16,4 @@
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxxRider&theme=blue-green)
 [![𝗠𝗔𝗫𝗫 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦](https://github-readme-stats.vercel.app/api?username=MaxxRider&theme=blue-green)](https://github.com/MaxxRider/MaxxRider)
 
-![]https://telegra.ph/MAXX-12-01)
+![]https://raw.githubusercontent.com/https:/telegra.ph/MAXX-12-01)
