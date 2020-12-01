@@ -14,5 +14,5 @@
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT/tree/main)
 ![Forks](https://img.shields.io/github/forks/Ns-AnoNymouS/TG-CONVERT-BOT)
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ns-AnoNymouS&theme=blue-green)
-[![Anonymous's github stats](https://github-readme-stats.vercel.app/api?username=Ns-AnoNymouS&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![𝗠𝗔𝗫𝗫 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦](https://github-readme-stats.vercel.app/api?username=MaxxRider&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
