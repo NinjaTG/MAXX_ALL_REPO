@@ -1,16 +1,6 @@
 # 𝑴𝒀 𝑨𝑳𝑳 𝑹𝑬𝑷𝑶𝑺
 
 
-### start
-<p align="center">
-<img src="https://telegra.ph/file/3cb7e3725cd991373dd9b.jpg" alt="START">
-
-### help
-<p align="center">
-<img src="https://telegra.ph/file/0ba25cedf094225ad7175.jpg" alt="HELP">
-
-### about
-<p align="center">
 <img src="https://telegra.ph/file/f6ad0e22825afe65ddcd2.jpg" alt="ABOUT">
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
