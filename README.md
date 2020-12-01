@@ -1,6 +1,6 @@
 # MAXXBOTS -ALL IN ONE REPO
 
-## ABOUTAbout
+## ABOUT
 My projects that I have made to improve my skills . Please don't use it to copy the projects. Submit the PR if you want something to be added to this repository
 ## Introduction
 
