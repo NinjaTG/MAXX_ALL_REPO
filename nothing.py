@@ -1,1 +1,2 @@
 Coming soon
+Rename Bot
