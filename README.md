@@ -1,7 +1,6 @@
 # 𝑴𝒀 𝑨𝑳𝑳 𝑹𝑬𝑷𝑶𝑺
 
 
-<img src="https://telegra.ph/file/f6ad0e22825afe65ddcd2.jpg" alt="ABOUT">
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 #
