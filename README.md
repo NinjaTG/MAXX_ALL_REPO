@@ -5,7 +5,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 #
 #
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
 
 ## License
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/maxxrider/maxxrider)
