@@ -5,37 +5,37 @@
 
             🏷️ 𝙍𝙀𝙋𝙊 𝙇𝙄𝙎𝙏 🏷️
 
-🔷 𝗥𝗘𝗡𝗔𝗠𝗘 
+🔷 𝗥𝗘𝗡𝗔𝗠𝗘 [📨 𝗩𝗶𝘀𝗶𝘁](https://github.com/MaxxRepoHub/MAXX_ALL_REPO/tree/MaxxRename)
 
-🔷 𝗙𝗜𝗟𝗘 𝟮 𝗟𝗜𝗡𝗞
+🔷 𝗙𝗜𝗟𝗘 𝟮 𝗟𝗜𝗡𝗞 [📨 𝗩𝗶𝘀𝗶𝘁](https://github.com/MaxxRepoHub/MAXX_ALL_REPO/tree/MaxxFile2Link)
 
-🔷 𝗨𝗥𝗟 𝗨𝗣𝗟𝗢𝗔𝗗𝗘𝗥. [🔸VISIT 🔸](https://github.com/MaxxRepoHub/MAXX_ALL_REPO)
+🔷 𝗨𝗥𝗟 𝗨𝗣𝗟𝗢𝗔𝗗𝗘𝗥. [📨 𝗩𝗶𝘀𝗶𝘁 ](https://github.com/MaxxRepoHub/MAXX_ALL_REPO)
 
-🔷 𝗧𝗢𝗥𝗥𝗘𝗡𝗧 𝗠𝗜𝗥𝗥𝗢𝗥
+🔷 𝗧𝗢𝗥𝗥𝗘𝗡𝗧 𝗠𝗜𝗥𝗥𝗢𝗥 [📨 𝗩𝗶𝘀𝗶𝘁 ](https://github.com/MaxxRepoHub/MAXX_ALL_REPO/tree/Torrent-Mirror)
 
-🔷 𝗖𝗢𝗡𝗩𝗘𝗥𝗧𝗢𝗥 
+🔷 𝗖𝗢𝗡𝗩𝗘𝗥𝗧𝗢𝗥 [📨 𝗩𝗶𝘀𝗶𝘁](https://github.com/MaxxRepoHub/MAXX_ALL_REPO/tree/MaxxConvertor)
 
-🔷 𝗙𝗢𝗥𝗖𝗘 𝟮 𝗦𝗨𝗕𝗦 
+🔷 𝗙𝗢𝗥𝗖𝗘 𝟮 𝗦𝗨𝗕𝗦 [📨 𝗩𝗶𝘀𝗶𝘁](https://github.com/MaxxRepoHub/MAXX_ALL_REPO/tree/Force-2-Subs)
 
-🔷 𝗧𝗢𝗥𝗥𝗘𝗡𝗧 𝗟𝗘𝗘𝗖𝗛 
+🔷 𝗧𝗢𝗥𝗥𝗘𝗡𝗧 𝗟𝗘𝗘𝗖𝗛 [📨 𝗩𝗶𝘀𝗶𝘁](https://github.com/MaxxRepoHub/MAXX_ALL_REPO/tree/Torrent-Leech)
 
-🔷 𝗭𝗘𝗘𝟱 𝗗𝗟 
+🔷 𝗭𝗘𝗘𝟱 𝗗𝗟 [📨 𝗩𝗶𝘀𝗶𝘁](https://github.com/MaxxRepoHub/MAXX_ALL_REPO/tree/MaxxZee5DL)
 
-🔷 𝗛𝗢𝗧𝗦𝗧𝗔𝗥 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 
+🔷 𝗛𝗢𝗧𝗦𝗧𝗔𝗥 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 [📨 𝗩𝗶𝘀𝗶𝘁](https://github.com/MaxxRepoHub/MAXX_ALL_REPO/tree/Hotstar-DL)
 
-🔷 𝗬𝗢𝗨𝗧𝗨𝗕𝗘 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 
+🔷 𝗬𝗢𝗨𝗧𝗨𝗕𝗘 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 [📨 𝗩𝗶𝘀𝗶𝘁](https://github.com/MaxxRepoHub/MAXX_ALL_REPO/tree/Youtube-DL)
 
-🔷 𝗧𝗢𝗥𝗥𝗘𝗡𝗧 𝗦𝗘𝗔𝗥𝗖𝗛 
+🔷 𝗧𝗢𝗥𝗥𝗘𝗡𝗧 𝗦𝗘𝗔𝗥𝗖𝗛 [📨 𝗩𝗶𝘀𝗶𝘁](https://github.com/MaxxRepoHub/MAXX_ALL_REPO/tree/Torrent-Search)
 
-🔷 𝗚𝗜𝗧𝗛𝗨𝗕 𝗗𝗟
+🔷 𝗚𝗜𝗧𝗛𝗨𝗕 𝗗𝗟 [📨 𝗩𝗶𝘀𝗶𝘁](https://github.com/MaxxRepoHub/MAXX_ALL_REPO/tree/GitHubDL)
 
-🔷 𝗨𝗡𝗭𝗜𝗣 𝗕𝗢𝗧
+🔷 𝗨𝗡𝗭𝗜𝗣 𝗕𝗢𝗧 [📨 𝗩𝗶𝘀𝗶𝘁](https://github.com/MaxxRepoHub/MAXX_ALL_REPO/tree/Unzip)
 
-🔷 𝗝𝗜𝗢 𝗦𝗔𝗔𝗩𝗡 𝗠𝗨𝗦𝗜𝗖 𝗗𝗟
+🔷 𝗝𝗜𝗢 𝗦𝗔𝗔𝗩𝗡 𝗠𝗨𝗦𝗜𝗖 𝗗𝗟 [📨 𝗩𝗶𝘀𝗶𝘁](https://github.com/MaxxRepoHub/MAXX_ALL_REPO/tree/JioSaavn-DL)
 
-🔷 𝗧𝗚 𝗙𝗜𝗟𝗘 𝗦𝗧𝗢𝗥𝗘
+🔷 𝗧𝗚 𝗙𝗜𝗟𝗘 𝗦𝗧𝗢𝗥𝗘 [📨 𝗩𝗶𝘀𝗶𝘁](https://github.com/MaxxRepoHub/MAXX_ALL_REPO/tree/TG-FILE-STORE)
 
-🔷 𝗩𝗢𝗢𝗧 𝗗𝗟
+🔷 𝗩𝗢𝗢𝗧 𝗗𝗟 [📨 𝗩𝗶𝘀𝗶𝘁](https://github.com/MaxxRepoHub/MAXX_ALL_REPO/tree/Voot-DL)
 
 # MAXXBOTS -ALL IN ONE REPO
 
